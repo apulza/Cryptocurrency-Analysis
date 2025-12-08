@@ -14,6 +14,11 @@ This project investigates whether market capitalization and trading volume can p
 
 ---
 
+## 🎥 Project Presentation
+**[Watch our 10-minute presentation on YouTube](https://www.youtube.com/watch?v=sJCnnZh-ET0)**
+
+---
+
 ## 🎯 Research Questions
 
 1. Are larger coins (BTC, ETH) less volatile than smaller coins?
