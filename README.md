@@ -15,7 +15,7 @@ This project investigates whether market capitalization and trading volume can p
 ---
 
 ## 🎥 Project Presentation
-**[Watch our 10-minute presentation on YouTube](https://www.youtube.com/watch?v=sJCnnZh-ET0)**
+**[Watch our 6-minute presentation on YouTube](https://www.youtube.com/watch?v=sJCnnZh-ET0)**
 
 ---
 
