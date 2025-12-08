@@ -88,5 +88,3 @@ cd CryptocurrencyAnalysis
 Cryptocurrency investments are highly speculative and risky. Our models' poor performance (R² < 2.4%) demonstrates crypto markets are fundamentally unpredictable using simple market metrics. Always consult financial professionals and only invest money you can afford to lose.
 
 ---
-
-*Last Updated: December 2024*
