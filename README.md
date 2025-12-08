@@ -64,7 +64,7 @@ This project investigates whether market capitalization and trading volume can p
 
 ## 🔧 Installation
 ```bash
-git clone https://github.com/YourUsername/CryptocurrencyAnalysis.git
+git clone https://github.com/apulza/CryptocurrencyAnalysis.git
 cd CryptocurrencyAnalysis
 ```
 
