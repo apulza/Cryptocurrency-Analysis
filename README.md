@@ -29,9 +29,9 @@ This project investigates whether market capitalization and trading volume can p
 ## 📁 Repository Structure
 ```
 ├── notebooks/                               # Jupyter notebooks
-│   ├── Phase_I_Proposal.ipynb               # Data collection & proposal
-│   ├── Phase_II_Data_EDA.ipynb              # Data cleaning & visualizations
-│   └── Phase_III_ML_Models.ipynb            # Machine learning models
+│   ├── PhaseI.ipynb                         # Data collection & proposal
+│   ├── PhaseII.ipynb                        # Data cleaning & visualizations
+│   └── PhaseIII.ipynb                       # Machine learning models
 ├── CryptocurrencyAnalysisPresentation.pdf   # Presentation slides
 ├── CryptocurrencyAnalysisFinalReport.pdf    # Complete final report 
 └── README.md                                # Project overview
